@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 一切如來正法祕密篋印心陀羅尼經
+#+DATE: 2015-08-30 20:28:08.338299
+#+PROPERTY: JUAN 0
