@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:08.048365
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:35
 #+TITLE: 一切如來正法祕密篋印心陀羅尼經
 #+PROPERTY: CBETA_ID T19n1023
 #+PROPERTY: ID KR6j0217
